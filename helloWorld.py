@@ -1,5 +1,5 @@
 print("Git is awesome")
-info_out = input("What is yor name? ")
+info_out = input("What is your name? ")
 print(info_out)
 
 # Code to take user input. Numeric vales only otherwise question is repeated.
